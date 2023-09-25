@@ -1,0 +1,14 @@
+{
+  "name": "desktop-capture-preview",
+  "version": "1.0.0",
+  "description": "An example Electron application for desktop capture",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Athul Iddya",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.2.2"
+  }
+}
